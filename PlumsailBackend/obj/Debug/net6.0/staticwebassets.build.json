@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2kC8QCnbVe3PjflupuM7gA7R1HoDY7KswBnuic0EPjY=",
+  "Source": "plumsailbackend",
+  "BasePath": "_content/plumsailbackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
