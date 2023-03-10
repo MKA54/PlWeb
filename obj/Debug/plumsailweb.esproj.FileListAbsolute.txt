@@ -1,2 +1,0 @@
-C:\Users\Mka91\source\repos\PlumsailWeb\PlumsailWeb\obj\Debug\plumsailweb.esproj.SuggestedBindingRedirects.cache
-C:\Users\Mka91\source\repos\PlumsailWeb\PlumsailWeb\obj\Debug\plumsailweb.esproj.CoreCompileInputs.cache
